@@ -69,20 +69,20 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 
 ## 🧰 Professional Experience
 
-*   **Agronomy Projects Engineer - Agrivoltaics**  
+### **Agronomy Projects Engineer - Agrivoltaics**  
 *SOLVEO Energies (renewable energy developer) - Toulouse*  
 *July 2024 - January 2025*
    - Agronomic interface for field development teams: conducting farm diagnostics and writing technical decision-support notes
    - Writing functional specifications for the development of the company's agrivoltaic management software
    - Creation of a reference database on light requirements for 17 crops, based on a synthesis of over 70 scientific articles
 
-*   **Business Engineer**  
+### **Business Engineer**  
 *MYCOPHYTO SAS (French Tech startup) - Grasse (PACA)*  
 *August 2023 - November 2023*
    - Managing client relationships from prospecting to field deployment: technical presentations, commercial proposals, and agronomic monitoring (sampling, report production)
    - Improvement of sales support and reporting tools: redesign of pricing tool (advanced Excel formulas) and development of cartographic visualization tool (QGIS) for client deliverables
 
-*   **Account Manager / Owner**  
+### **Account Manager / Owner**  
 *Domaine La Tourbeille // Taverne du Belvédère - Bordeaux region*  
 *2017 - 2023*
    - B2B sales, budget management, commercial strategy
