@@ -1,6 +1,9 @@
 [Version française](./README_FR.md) | [Versione Italiana](./README_IT.md)
 
 ---
+[![Video presentation](https://img.youtube.com/vi/KiCLegoh95UAntpA/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)
+
+---
 
 ## Education
 
@@ -21,20 +24,11 @@
 
 ## Projects
 
-**1. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
+**1. Regional Electricity Consumption Forecasting System**
 
-This project demonstrates a **robust, multi-stage ETL pipeline** designed to ingest, clean, and structure **164 highly heterogeneous raw data files** (XLS, XLSX) of French industrial energy consumption data from 2010 to 2023. The core objective was to transform this complex dataset into a **clean, unified, and analysis-ready star-schema database**, which then served as the foundation for an interactive **Power BI dashboard** to analyze energy trends.
+![Prediction screenshot](evaluation.jpeg)
 
-*   **Key Practices:** This project showcases **advanced data quality management** (handling varying file formats, standardizing diverse dimensions like business sectors, regions, and employee sizes, and addressing suppressed data), **data modeling with a star schema**, **modularity**, **configuration as code (JSON)**, and **robust error handling** throughout the ETL process.
-*   **Tech Stack:** **Python**, **Pandas**, **JSON**, CSV outputs, and **Microsoft Power BI**.
-
-[📁 View Full Project Documentation](./projects/eacei-etl/README.md)
-
----
-
-**2. Regional Electricity Consumption Forecasting System**
-
-This comprehensive project built an **end-to-end, automated system** for forecasting short-term electricity consumption across all administrative regions of France. It features a robust, scalable, and maintainable **cloud-native data pipeline** that handles the complete data lifecycle, from automated acquisition of real-time consumption and temperature data via APIs to cloud storage, model training, prediction, and evaluation. The system culminates in a **live Streamlit application** for interactive visualization of forecasts.
+This project is a full-stack, **end-to-end, automated system** for forecasting short-term electricity consumption across all regions of France. It features a robust, scalable, and maintainable **cloud-native data pipeline** that handles the complete data lifecycle, from automated acquisition of real-time consumption and temperature data via APIs to cloud storage, model training, prediction, and evaluation. The system culminates in a **live Streamlit application** for interactive visualization of forecasts.
 
 *   **Key Practices:** Emphasizing **automated data acquisition from external APIs**, **cloud data lake implementation (AWS S3)**, **efficient data processing and transformation** (including time-series resampling and incremental updates), **containerization with Docker**, and **automated orchestration via AWS services**. It also demonstrates a full **MLOps workflow**, including feature engineering, model management with **MLflow**, and multi-layered automated prediction and evaluation.
 *   **Tech Stack:** **AWS (S3, ECS, EventBridge)**, **Docker**, **Python** (Pandas, Scikit-learn, XGBoost, Boto3, Plotly), **MLflow**, **Streamlit**, and **Render**.
@@ -44,9 +38,22 @@ This comprehensive project built an **end-to-end, automated system** for forecas
 
 ---
 
+**2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
+
+![Dashboard screenshot](eacei.png)
+
+This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean, and structure **164 highly heterogeneous raw data files** (XLS, XLSX) of French industrial energy consumption data from 2010 to 2023. The core objective was to transform this complex dataset into a **clean, unified, and analysis-ready star-schema database**, which then served as the foundation for an interactive **Power BI dashboard** to analyze energy trends.
+
+*   **Key Practices:** This project showcases **advanced data quality management** (handling varying file formats, standardizing diverse dimensions like business sectors, regions, and employee sizes, and addressing suppressed data), **data modeling with a star schema**, **modularity**, **configuration as code (JSON)**, and **robust error handling** throughout the ETL process.
+*   **Tech Stack:** **Python**, **Pandas**, **JSON**, CSV outputs, and **Microsoft Power BI**.
+
+[📁 View Full Project Documentation](./projects/eacei-etl/README.md)
+
+---
+
 **3. E-commerce Real-Time Analytics Platform (Ongoing)**
 
-This **ongoing project** is an ambitious enhancement of an existing outline, designed to be a strong, portfolio-worthy demonstration of **entry-level Data Engineering skills with a focus on Big Data concepts**. It simulates an end-to-end e-commerce analytics platform, processing both batch and streaming user interaction events, storing them in a data lake, loading to a data warehouse, and transforming them for analytics. The platform emphasizes **scalability, data quality, error handling, and real-world resilience**.
+This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-end e-commerce analytics platform, processing both batch and streaming user interaction events, storing them in a data lake, loading to a data warehouse, and transforming them for analytics. The platform emphasizes **scalability, data quality, error handling, and real-world resilience**.
 
 *   **Key Practices:** The project amplifies **Big Data aspects** through volume/velocity simulation, partitioning, and streaming. It incorporates **robust data quality checks (Great Expectations)**, **enhanced error handling and monitoring**, **idempotency**, **schema evolution**, and a **simple query/serving layer** for end-to-end completeness. It also includes **CI/CD basics** and a **scalability demo** to showcase thoughtful engineering practices.
 *   **Tech Stack:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI**, and **GitHub Actions**.
