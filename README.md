@@ -1,7 +1,7 @@
 [Version française](./README_FR.md) | [Versione Italiana](./README_IT.md)
 
 ---
-[![Video presentation](https://img.youtube.com/vi/KiCLegoh95UAntpA/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)
+[![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)
 
 ---
 
