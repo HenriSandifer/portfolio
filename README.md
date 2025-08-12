@@ -14,7 +14,7 @@
 *   **RNCP 6, Concepteur Développeur d'Applications**
 *Bootcamp : Data Scientist (DATAROCKSTARS)* 
 *Certification expected 09/2025*  
-400-hour intensive Data Science bootcamp
+*400-hour intensive Data Science bootcamp*
 
 *   **M.S., Sustainable Agriculture**  
 *Università degli Studi di Padova, Italy - 2022*
