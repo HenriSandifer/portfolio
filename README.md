@@ -29,7 +29,7 @@
 
 ## 📌 Projects
 
-**🔮 1. Regional Electricity Consumption Forecasting System**
+### **🔮 1. Regional Electricity Consumption Forecasting System**
 
 ![Prediction screenshot](evaluation.jpeg)
 
@@ -43,7 +43,7 @@ This project is a full-stack, **end-to-end, automated system** for forecasting s
 
 ---
 
-**📊 2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
+### **📊 2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
 
 ![Dashboard screenshot](eacei.png)
 
@@ -56,7 +56,7 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 
 ---
 
-**💻 3. E-commerce Real-Time Analytics Platform (Ongoing)**
+### **💻 3. E-commerce Real-Time Analytics Platform (Ongoing)**
 
 This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-end e-commerce analytics platform, processing both batch and streaming user interaction events, storing them in a data lake, loading to a data warehouse, and transforming them for analytics. The platform emphasizes **scalability, data quality, error handling, and real-world resilience**.
 
