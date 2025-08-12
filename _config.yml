@@ -1,8 +1,36 @@
-title: Henri Sandifer
-description: >
-  <p><strong>Data Engineer</strong> with a microbiology & agronomy background.<br>
-  Skilled in Python, SQL and cloud pipelines.<br>
-  <em>Building infrastructure that turns messy datastreams into actionable resources.</em></p>
-  <p>🌍 Languages: Fluent in English, French, Italian</p>
+title: "Henri Sandifer"
+subtitle: "Data Engineer | Ex-Microbiologist/Agronomist"
 logo: 132948433.jpeg
-theme: jekyll-theme-minimal
+description: "Turning messy data into an actionable resource."
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+# Navigation menu
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Français"
+    url: /README_FR.md/
+  - title: "Italiano"
+    url: /README_IT.md/
+
+# Author bio (supports Markdown)
+author:
+  name: "Henri Sandifer"
+  avatar: "132948433.jpeg"
+  bio: |
+    **Data Engineer** with a passion for data pipelines,  
+    cloud infrastructure, and problem solving.
+    Former microbiologist and agronomist.
+    - 🌱 Python, SQL, AWS
+    - 📊 ETL and data modelling
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-feed
