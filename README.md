@@ -7,7 +7,7 @@
 
 ---
 
-## 🏫 Education
+## 🎓 Education
 
 **RNCP 6 : Concepteur Développeur d'Applications // Bootcamp : Data Scientist (DATAROCKSTARS)**  
 *2025 - Certification expected 09/2025*  
@@ -104,7 +104,7 @@ English/French (native and bilingual), Italian (fluent ~ C1), Spanish (B1), Germ
 
 ---
 
-## Contact
+## ✉️ Contact
 
 📧 **Email:** henrisandifer@gmail.com  
 📍 **Location:** Toulouse, France (willing to relocate)  
