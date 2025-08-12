@@ -1,4 +1,4 @@
-[:fr:**Version française**](./README_FR.md) | [:it:**Versione Italiana**](./README_IT.md)
+[🇫🇷 **Version française**](./README_FR.md) | [🇮🇹 **Versione Italiana**](./README_IT.md)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-##📌 Projects
+## 📌 Projects
 
 **🔮 1. Regional Electricity Consumption Forecasting System**
 
@@ -40,7 +40,7 @@ This project is a full-stack, **end-to-end, automated system** for forecasting s
 
 ---
 
-** 📊 2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
+**📊 2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
 
 ![Dashboard screenshot](eacei.png)
 
@@ -53,7 +53,7 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 
 ---
 
-** 🚄 3. E-commerce Real-Time Analytics Platform (Ongoing)**
+**💻 3. E-commerce Real-Time Analytics Platform (Ongoing)**
 
 This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-end e-commerce analytics platform, processing both batch and streaming user interaction events, storing them in a data lake, loading to a data warehouse, and transforming them for analytics. The platform emphasizes **scalability, data quality, error handling, and real-world resilience**.
 
@@ -64,14 +64,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 
 ---
 
-## Professional Experience
-
-**Data Engineer**  
-*Prediction of regional electricity consumption project (2025)*
-- Data collection and preparation: aggregation of multiple sources (APIs, static files), cleaning and structuring
-- Modeling & Continuous improvement: construction and versioning (MLflow) of 55 predictive models (XGBoost) with performance tracking
-- Production deployment: fully automated data pipeline with Docker and AWS (S3, ECS, EventBridge)
-- Reporting & Visualization: creation of an interactive dashboard (Streamlit) for prediction tracking and result analysis by users
+## 🧰 Professional Experience
 
 **Agronomy Projects Engineer - Agrivoltaics**  
 *SOLVEO Energies (renewable energy developer) - Toulouse*  
@@ -86,7 +79,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 - Managing client relationships from prospecting to field deployment: technical presentations, commercial proposals, and agronomic monitoring (sampling, report production)
 - Improvement of sales support and reporting tools: redesign of pricing tool (advanced Excel formulas) and development of cartographic visualization tool (QGIS) for client deliverables
 
-**Account Manager / Commercial - Technical Projects**  
+**Account Manager / Owner**  
 *Domaine La Tourbeille // Taverne du Belvédère - Bordeaux region*  
 *2017 - 2023*
 - B2B sales, budget management, commercial strategy
@@ -95,7 +88,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 
 ---
 
-## Technical Skills
+## 🪛 Technical Skills
 
 **Languages & Data Processing:**  
 Python, SQL, Pandas, NumPy, Scikit-learn, Jupyter
