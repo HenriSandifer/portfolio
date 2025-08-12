@@ -1,12 +1,8 @@
 title: Henri Sandifer
-email: contact@henrisandifer.com
-description: Junior Data Engineer, ex-microbiologist/agronomist
-url: henrisandifer.github.io/portfolio/
-
+description: >
+  <p><strong>Data Engineer</strong> with a microbiology & agronomy background.<br>
+  Skilled in Python, SQL and cloud pipelines.<br>
+  <em>Building infrastructure that turns messy datastreams into actionable resources.</em></p>
+  <p>🌍 Languages: Fluent in English, French, Italian</p>
 logo: 132948433.jpeg
-
-# description: text below image
-
-#show_downloads: true
-
-theme: Jekyll-theme-minimal
+theme: jekyll-theme-minimal
