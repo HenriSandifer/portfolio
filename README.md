@@ -11,18 +11,18 @@
 
 ## 🎓 Education
 
-> . **RNCP 6, Concepteur Développeur d'Applications**
+. **RNCP 6, Concepteur Développeur d'Applications**
 *Bootcamp : Data Scientist (DATAROCKSTARS)* 
 *2025 - Certification expected 09/2025*  
 400-hour intensive Data Science bootcamp
 
-> . **M.S., Sustainable Agriculture**  
+. **M.S., Sustainable Agriculture**  
 *Università degli Studi di Padova, Italy - 2022*
 
-> . **B.A., Biology**  
+. **B.A., Biology**  
 *Carleton College, USA - 2015*
 
-> . **French Baccalaureate - Economics and Sociology (International Option)**  
+. **French Baccalaureate - Economics and Sociology (International Option)**  
 *EABJM, Paris - 2011*
 
 ---
