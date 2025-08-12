@@ -2,19 +2,18 @@ title: Henri Sandifer
 description: >
   <p><strong>Data Engineer</strong><br>
   Ex-microbiologist/agronomist<br>
-  <p><em>Problem solver with a nack for backend and data infrastructure. I've got a soft spot for end-to-end data solutions but will drill down wherever a process needs work along the line.</em><br>
+  <em>Problem solver with a nack for backend and data infrastructure. I've got a soft spot for end-to-end data solutions but will drill down wherever a process needs work along the line.</em></p><br>
 
   <p>✉️ <strong>Contact</strong><br>
-  <strong>Email : </strong>contact@henrisandifer.com
-  <strong>Location : </strong>Toulouse, France <em>(willing to relocate) </em>
-  <br>
+  <strong>Email : </strong>contact@henrisandifer.com<br>
+  <strong>Location : </strong>Toulouse, France <em>(willing to relocate) </em></p><br>
   
   <p>🌍 <strong>Spoken languages </strong>(fluent)
   <div class="tags">
     <span class="tag">English</span>
     <span class="tag">French</span>
     <span class="tag">Italian</span>
-  </div><br>
+  </div></p><br>
 
   <p>🧱 <strong>Tech stack</strong>
   <div class="tags">
@@ -28,7 +27,7 @@ description: >
     <span class="tag">Snowflake</span>
     <span class="tag">Power BI</span>
     <span class="tag">Streamlit</span>
-  </div><br>
+  </div></p><br>
 
   <p>🎯 <strong>Skills </strong>
   <div class="tags">
@@ -36,7 +35,7 @@ description: >
     <span class="tag">Data modelling</span>
     <span class="tag">Data quality</span>
     <span class="tag">Error logging</span>
-  </div><br>
+  </div></p><br>
   
     <style>
   .tags {
