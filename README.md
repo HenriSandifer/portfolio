@@ -1,5 +1,3 @@
-# Henri Sandifer
-
 [Version française](./README_FR.md) | [Versione Italiana](./README_IT.md)
 
 ---
