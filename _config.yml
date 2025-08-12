@@ -1,9 +1,16 @@
-title: Henri Sandifer
+title: Data Engineer Portfolio
+author:
+  name: Henri Sandifer
+  email: contact@henrisandifer.com
+  bio: Junior Data Engineer, ex-microbiologist/agronomist.
+description: CV and Data Engineering projects.
+url: henrisandifer.github.io/portfolio/
+
 
 logo: 132948433.jpeg
 
 # description: text below image
 
-show_downloads: true
+#show_downloads: true
 
 theme: Jekyll-theme-minimal
