@@ -1,6 +1,8 @@
 title: Henri Sandifer
 description: >
-  <p><strong>Data Engineer</strong> with a microbiology & agronomy background.<br>
+  <p><strong>Data Engineer</strong><br>
+  <p>Ex-microbiologist/agronomist<br>
+  <p>Problem solver<br>
   
   <p>🌍 Languages: English, French, Italian</p>
   
@@ -8,6 +10,13 @@ description: >
     <span class="tag">Python</span>
     <span class="tag">SQL</span>
     <span class="tag">AWS</span>
+    <span class="tag">Kafka</span>
+    <span class="tag">Spark</span>
+    <span class="tag">Airflow</span>
+    <span class="tag">Snowflake</span>
+    <span class="tag">Power BI</span>
+    <span class="tag">Streamlit</span>
+    
 
     <style>
   .tags {
