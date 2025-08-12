@@ -19,6 +19,7 @@ navigation:
     url: /README_IT.md/
 
 # Author bio (supports Markdown)
+show_author_profile: true
 author:
   name: "Henri Sandifer"
   avatar: "132948433.jpeg"
