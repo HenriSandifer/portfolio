@@ -1,14 +1,20 @@
 [🏠 HOME](../README.md)
-[🇫🇷 Version française](./pages/EACEI_FR.md)
-[🇮🇹 Versione Italiana](./pages/EACEI_IT.md)
+[🇫🇷 Version française](EACEI_FR.md)
+[🇮🇹 Versione Italiana](EACEI_IT.md)
 
 # 🏭 EACEI - French Industrial Energy Consumption Analysis
 
-**Author**: Henri Sandifer
+**Author**: [Henri Sandifer](https://github.com/henrisandifer)
 
 ![Dashboard Screenshot](../assets/eacei.png)
 
 ### 👉🌐 View the **Live Dashboard** : [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
+
+---
+
+## 📺 Video presentation
+<!-- [![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)-->
+### ⌛ Coming soon
 
 ---
 
