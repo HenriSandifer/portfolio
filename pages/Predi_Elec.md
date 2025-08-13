@@ -1,4 +1,4 @@
-[🏠 HOME](README.md)
+[🏠 HOME](../README.md)
 [🇫🇷 Version française](./pages/Predi_Elec_FR.md)
 [🇮🇹 Versione Italiana](./pages/Predi_Elec_IT.md)
 
