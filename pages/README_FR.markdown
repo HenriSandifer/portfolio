@@ -1,6 +1,6 @@
-[🇬🇧 **English Version**](./README.md) | [🇮🇹 **Versione Italiana**](./pages/README_IT.md)
+[🇬🇧 **English Version**](../README.md) | [🇮🇹 **Versione Italiana**](./README_IT.md)
 
-# Ingénieur de Données
+# Data Engineer
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 120px; margin-right: 10px;">
