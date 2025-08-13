@@ -97,7 +97,7 @@ Système complet, **de bout en bout et automatisé** pour la prévision à court
 
 ### 👉🌐 Voir la **Démo en direct** : [https://predi-elec.onrender.com](https://predi-elec.onrender.com)
 
-[📁 Voir le rapport de projet complet](Predi_Elec_FR.md)
+### 👉📖 Voir le **rapport de projet complet** : [Rapport complet](Predi_Elec_FR.md)
 
 ---
 
@@ -113,7 +113,7 @@ Ce projet est une **pipeline ETL robuste à plusieurs étapes** conçue pour ing
 
 ### 👉🌐 Voir le **Tableau de bord en direct** : [Tableau de bord Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
 
-[📁 Voir le rapport de projet complet](EACEI_FR.md)
+### 👉📖 Voir le **rapport de projet** complet : [Rapport de projet](EACEI_FR.md)
 
 ---
 
@@ -125,7 +125,7 @@ Ce projet **en cours**, axé sur les concepts du **Big Data**, simule une platef
 
 * **Stack technique :** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI** et **GitHub Actions**.
 
-[📁 Voir la documentation du projet en cours](E_commerce_FR.md)
+### 👉📝 Voir la documentation du **projet en cours** : [Documentation de projet](E_commerce_FR.md)
 
 ---
 
