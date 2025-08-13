@@ -97,7 +97,7 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 *   **Key Practices:** **Automated data acquisition from external APIs**, **cloud data lake implementation (AWS S3)**, **efficient data processing and transformation** (including time-series resampling and incremental updates), **containerization with Docker**, and **automated orchestration via AWS services**. Full **MLOps workflow**, including feature engineering, model management with **MLflow**, and multi-layered automated prediction and evaluation.
 *   **Tech Stack:** **AWS (S3, ECS, EventBridge)**, **Docker**, **Python** (Pandas, Scikit-learn, XGBoost, Boto3, Plotly), **MLflow**, **Streamlit**, and **Render**.
 
-#### 🌐 View the **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
+### 👉🌐 View the **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
 
 [📁 View Full Project Report](./pages/project_1.md)
 
@@ -112,9 +112,9 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 *   **Key Practices:** This project showcases **advanced data quality management** (handling varying file formats, standardizing diverse dimensions like business sectors, regions, and employee sizes, and addressing suppressed data), **data modeling with a star schema**, **modularity**, **configuration as code (JSON)**, and **robust error handling** throughout the ETL process.
 *   **Tech Stack:** **Python**, **Pandas**, **JSON**, CSV outputs, and **Microsoft Power BI**.
 
-#### 🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
+### 👉🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
 
-[📁 View Full Project Documentation](./pages/project_2.md)
+[📁 View Full Project Report](./pages/project_2.md)
 
 ---
 
