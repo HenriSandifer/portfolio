@@ -59,7 +59,7 @@
 
 ## 📺 Présentation vidéo
 
-### ⌛ Bientôt disponible
+⌛ **_Bientôt disponible_**
 
 _Problem-solver et ancien microbiologiste/agronome avec un talent pour la construction, la maintenance et l'optimisation des infrastructures de données._
 
