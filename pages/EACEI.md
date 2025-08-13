@@ -1,4 +1,8 @@
-# EACEI - French Industrial Energy Consumption Analysis
+[🏠 HOME](./README.md)
+[🇫🇷 Version française](./pages/EACEI_FR.md)
+[🇮🇹 Versione Italiana](./pages/EACEI_IT.md)
+
+# 🏭 EACEI - French Industrial Energy Consumption Analysis
 
 **Author**: Henri Sandifer
 
