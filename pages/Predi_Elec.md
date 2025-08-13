@@ -25,7 +25,7 @@ Author: [henrisandifer](https://github.com/henrisandifer)
 - <span style="font-size: 20px;">**Historical archives** of both real consumption and model predictions.</span></br>
 &nbsp;
 
-![Dashboard Screenshot](assets/evaluation.JPG)
+![Dashboard Screenshot](../assets/evaluation.jpeg)
 
 - <span style="font-size: 20px;">**Automated model evaluation and visualizations** accessible via a clean web interface.</span></br>
 &nbsp;
