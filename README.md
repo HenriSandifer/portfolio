@@ -106,7 +106,7 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 
 ### 👉🌐 View the **Live Demo** : [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
 
-### 👉📖 View the full **Project Report** (+ video) : [Full Project Report](./pages/Predi_Elec.md)
+### 👉📖 View the Full **Project Report** (+ video) : [Full Project Report](./pages/Predi_Elec.md)
 
 ---
 <p></p>
@@ -123,7 +123,7 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 
 ### 👉🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
 
-### 👉📖 View the full **project report** (+ video) : [Full Project Report](./pages/EACEI.md)
+### 👉📖 View the Full **Project Report** (+ video) : [Full Project Report](./pages/EACEI.md)
 
 ---
 <p></p>
@@ -136,7 +136,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 *   **Key Practices:** The project amplifies **Big Data aspects** through volume/velocity simulation, partitioning, and streaming. It incorporates **robust data quality checks (Great Expectations)**, **enhanced error handling and monitoring**, **idempotency**, **schema evolution**, and a **simple query/serving layer** for end-to-end completeness. It also includes **CI/CD basics** and a **scalability demo** to showcase thoughtful engineering practices.
 *   **Tech Stack:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI**, and **GitHub Actions**.
 
-### 👉📝 View the ongoing project documentation : [Ongoing Project Documentation](./pages/E_commerce.md)
+### 👉📝 View the Ongoing Project Documentation : [Ongoing Project Documentation](./pages/E_commerce.md)
 
 ---
 <p></p>
