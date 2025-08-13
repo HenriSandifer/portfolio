@@ -60,6 +60,9 @@
 
 ---
 
+<p></p>
+<p></p>
+
 ## 📺 Video presentation
 <!-- [![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)-->
 ⌛ **_Coming soon_**
@@ -67,6 +70,8 @@
 _Problem-solver and ex-microbiologist/agronomist with a knack for building, maintaining and optimizing data infrastructure._
 
 ---
+<p></p>
+<p></p>
 
 ## 🎓 Education
 
@@ -85,6 +90,8 @@ _Problem-solver and ex-microbiologist/agronomist with a knack for building, main
 *EABJM, Paris - 2011*
 
 ---
+<p></p>
+<p></p>
 
 ## 📌 Projects
 
@@ -102,6 +109,8 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 ### 👉📖 View the full **Project Report** (+ video) : [Full Project Report](./pages/Predi_Elec.md)
 
 ---
+<p></p>
+<p></p>
 
 ### **📊 2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
 
@@ -117,6 +126,8 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 ### 👉📖 View the full **project report** (+ video) : [Full Project Report](./pages/EACEI.md)
 
 ---
+<p></p>
+<p></p>
 
 ### **💻 3. E-commerce Real-Time Analytics Platform (Ongoing)**
 
@@ -128,6 +139,8 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 ### 👉📝 View the ongoing project documentation :[Ongoing Project Documentation](./pages/E_commerce.md)
 
 ---
+<p></p>
+<p></p>
 
 ## 🧰 Professional Experience
 
