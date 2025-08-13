@@ -41,6 +41,22 @@
 
 </div>
 
+<style>
+  .tags {
+  margin-top: 8px;
+}
+.tag {
+  display: inline-block;
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 4px 8px;
+  margin: 2px;
+  font-size: 0.85em;
+  border-radius: 12px;
+  border: 1px solid #ccc;
+}
+</style>
+
 ---
 
 ## 📺 Video presentation
