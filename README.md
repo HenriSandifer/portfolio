@@ -125,7 +125,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 *   **Key Practices:** The project amplifies **Big Data aspects** through volume/velocity simulation, partitioning, and streaming. It incorporates **robust data quality checks (Great Expectations)**, **enhanced error handling and monitoring**, **idempotency**, **schema evolution**, and a **simple query/serving layer** for end-to-end completeness. It also includes **CI/CD basics** and a **scalability demo** to showcase thoughtful engineering practices.
 *   **Tech Stack:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI**, and **GitHub Actions**.
 
-### 👉📝 View the ongoing project documentation :[Ongoing Project Documentation](./pages/project_3.md)
+### 👉📝 View the ongoing project documentation :[Ongoing Project Documentation](./pages/E_commerce.md)
 
 ---
 
