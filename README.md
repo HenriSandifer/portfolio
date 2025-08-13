@@ -106,7 +106,7 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 
 ### 👉🌐 View the **Live Demo** : [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
 
-### 👉📖 View the Full **Project Report** (+ video) : [Full Project Report](./pages/Predi_Elec.md)
+### 👉📖 View the Full **Project Report** (+ video) : [Full Project Report](./pages/Predi_Elec_2.md)
 
 ---
 <p></p>
