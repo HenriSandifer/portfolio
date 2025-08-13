@@ -1,4 +1,4 @@
-[🇫🇷 **Version française**](./pages/README_FR.md) | [🇮🇹 **Versione Italiana**](./pages/README_IT.md)
+[🇫🇷 **Version française**](./pages/README_FR.markdown) | [🇮🇹 **Versione Italiana**](./pages/README_IT.markdown)
 
 # Data Engineer
 
