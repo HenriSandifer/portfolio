@@ -97,7 +97,7 @@ Sistema completo, **end-to-end e automatizzato** per la previsione a breve termi
 
 ### 👉🌐 Visualizza la **Demo Live**: [https://predi-elec.onrender.com](https://predi-elec.onrender.com)
 
-[📁 Visualizza il report completo del progetto](Predi_Elec_IT.md)
+### 👉📖 Visualizza il **report completo** (+ video) : [Report completo](Predi_Elec_IT.md)
 
 ---
 
