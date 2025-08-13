@@ -1,4 +1,4 @@
-[🏠 HOME](README.md)
+[🏠 HOME](../README.md)
 [🇫🇷 Version française](./pages/E_commerce_FR.md)
 [🇮🇹 Versione Italiana](./pages/E_commerce_IT.md)
 
