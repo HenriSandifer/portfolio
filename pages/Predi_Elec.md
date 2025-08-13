@@ -1,6 +1,6 @@
 [🏠 HOME](../README.md)
-[🇫🇷 Version française](./pages/Predi_Elec_FR.md)
-[🇮🇹 Versione Italiana](./pages/Predi_Elec_IT.md)
+[🇫🇷 Version française](Predi_Elec_FR.md)
+[🇮🇹 Versione Italiana](Predi_Elec_IT.md)
 
 # ⚡ Predi Conso Elec Region
 
@@ -10,6 +10,12 @@
 Author: [henrisandifer](https://github.com/henrisandifer)
 
 ### 👉🌐 View the **Live Demo** : [Live Demo](https://predi-elec.onrender.com/)
+
+---
+
+## 📺 Video presentation
+<!-- [![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)-->
+### ⌛ Coming soon
 
 ---
 
