@@ -1,4 +1,4 @@
-[🇫🇷 **Version française**](./README_FR.md) | [🇮🇹 **Versione Italiana**](./README_IT.md)
+[🇫🇷 **Version française**](./pages/README_FR.md) | [🇮🇹 **Versione Italiana**](./pages/README_IT.md)
 
 # Data Engineer
 
@@ -87,7 +87,7 @@
 
 ### **🔮 1. Regional Electricity Consumption Forecasting System**
 
-![Prediction screenshot](evaluation.jpeg)
+![Prediction screenshot](./assets/evaluation.jpeg)
 
 Full-stack, **end-to-end, automated system** for forecasting short-term electricity consumption across all regions of France. Robust, scalable, and maintainable **cloud-native data pipeline** that handles the complete data lifecycle, from automated acquisition of real-time consumption and temperature data via APIs to cloud storage, model training, prediction, and evaluation. Culminates in a **live Streamlit application** for interactive visualization of forecasts.
 
@@ -96,13 +96,13 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 
 #### 🌐 View the **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
 
-[📁 View Full Project Report](project_1.md)
+[📁 View Full Project Report](./pages/project_1.md)
 
 ---
 
 ### **📊 2. French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis**
 
-![Dashboard screenshot](eacei.png)
+![Dashboard screenshot](./assets/eacei.png)
 
 This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean, and structure **164 highly heterogeneous raw data files** (XLS, XLSX) of French industrial energy consumption data from 2010 to 2023. The core objective was to transform this complex dataset into a **clean, unified, and analysis-ready star-schema database**, which then served as the foundation for an interactive **Power BI dashboard** to analyze energy trends.
 
@@ -111,7 +111,7 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 
 #### 🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
 
-[📁 View Full Project Documentation](project_2.md)
+[📁 View Full Project Documentation](./pages/project_2.md)
 
 ---
 
@@ -122,7 +122,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 *   **Key Practices:** The project amplifies **Big Data aspects** through volume/velocity simulation, partitioning, and streaming. It incorporates **robust data quality checks (Great Expectations)**, **enhanced error handling and monitoring**, **idempotency**, **schema evolution**, and a **simple query/serving layer** for end-to-end completeness. It also includes **CI/CD basics** and a **scalability demo** to showcase thoughtful engineering practices.
 *   **Tech Stack:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI**, and **GitHub Actions**.
 
-[📁 View Ongoing Project Documentation](project_3.md)
+[📁 View Ongoing Project Documentation](./pages/project_3.md)
 
 ---
 
