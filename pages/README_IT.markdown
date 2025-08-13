@@ -97,7 +97,7 @@ Sistema completo, **end-to-end e automatizzato** per la previsione a breve termi
 
 ### 👉🌐 Visualizza la **Demo Live**: [https://predi-elec.onrender.com](https://predi-elec.onrender.com)
 
-### 👉📖 Visualizza il **report completo** (+ video) : [Report completo](Predi_Elec_IT.md)
+### 👉📖 Visualizza il **Report di Proggetto Completo** (+ video) : [Report di Proggetto Completo](Predi_Elec_IT.md)
 
 ---
 
@@ -113,7 +113,7 @@ Questo progetto consiste in una **pipeline ETL robusta e multi-stadio** progetta
 
 ### 👉🌐 Visualizza la **Dashboard Live**: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
 
-### 👉📖 Visualizza il **report completo** (+ video) : [Report completo](EACEI_IT.md)
+### 👉📖 Visualizza il **Report di Proggetto Completo** (+ video) : [Report di Proggetto Completo](EACEI_IT.md)
 
 ---
 
@@ -125,7 +125,7 @@ Questo progetto **in corso**, incentrato sui concetti di **Big Data**, simula un
 
 * **Stack tecnologico:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI** e **GitHub Actions**.
 
-### 👉📝 Visualizza la documentazione in corso : [Documentazione in corso](E_commerce_IT.md)
+### 👉📝 Visualizza la Documentazione del Proggetto in Corso : [Documentazione del Proggetto](E_commerce_IT.md)
 
 ---
 
