@@ -1,4 +1,4 @@
-[🇬🇧 **English Version**](../README.md) | [🇫🇷 **Version française**](./README_FR.md)
+[🇬🇧 **English Version**](../README.md) | [🇫🇷 **Version française**](README_FR.md)
 
 # Data Engineer
 
