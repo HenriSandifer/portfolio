@@ -8,7 +8,7 @@
 
 ![Dashboard Screenshot](../assets/evaluation.jpeg)
 
-# 🌐 View the **Live Application:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com)  
+## 🌐 View the **Live Application:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com)  
 
 👨‍💻 **Author:** [Henri Sandifer](https://github.com/henrisandifer)
 
