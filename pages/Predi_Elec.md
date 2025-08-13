@@ -7,7 +7,7 @@
 
 **A predictive web application for French regional electricity consumption**  
 
-Author: [henrisandifer](https://github.com/henrisandifer)
+**Author**: [Henri Sandifer](https://github.com/henrisandifer)
 
 ### 👉🌐 View the **Live Demo** : [Live Demo](https://predi-elec.onrender.com/)
 
