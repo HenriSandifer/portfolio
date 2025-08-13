@@ -59,7 +59,7 @@
 
 ## 📺 Presentazione video
 
-### ⌛ Prossimamente
+⌛ **_Prossimamente_**
 
 _Problem-solver ed ex-microbiologo/agronomo con un'attitudine per la costruzione, manutenzione e ottimizzazione delle infrastrutture dati._
 
