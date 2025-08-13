@@ -99,7 +99,7 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 
 ### 👉🌐 View the **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
 
-[📁 View Full Project Report](./pages/project_1.md)
+[📁 View Full Project Report](./pages/Predi_Elec.md)
 
 ---
 
@@ -114,7 +114,7 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 
 ### 👉🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
 
-[📁 View Full Project Report](./pages/project_2.md)
+[📁 View Full Project Report](./pages/EACEI.md)
 
 ---
 
