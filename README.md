@@ -2,6 +2,61 @@
 
 # Data Engineer
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 200px; margin-right: 10px;">
+    <p>🌍 <strong>Spoken languages</strong> (fluent)</p>
+    <div class="tags">
+      <span class="tag">English</span>
+      <span class="tag">French</span>
+      <span class="tag">Italian</span>
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; margin-right: 10px;">
+    <p>🧱 <strong>Tech stack</strong></p>
+    <div class="tags">
+      <span class="tag">Python</span>
+      <span class="tag">Pandas</span>
+      <span class="tag">SQL</span>
+      <span class="tag">AWS</span>
+      <span class="tag">Kafka</span>
+      <span class="tag">Spark</span>
+      <span class="tag">Airflow</span>
+      <span class="tag">Snowflake</span>
+      <span class="tag">Power BI</span>
+      <span class="tag">Streamlit</span>
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    <p>🎯 <strong>Skills</strong></p>
+    <div class="tags">
+      <span class="tag">ETL</span>
+      <span class="tag">Data modelling</span>
+      <span class="tag">Data quality</span>
+      <span class="tag">Error logging</span>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  .tags {
+    margin-top: 8px;
+  }
+  .tag {
+    display: inline-block;
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 4px 8px;
+    margin: 2px;
+    font-size: 0.85em;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+  }
+</style>
+
 ---
 
 ## 📺 Video presentation
