@@ -1,4 +1,4 @@
-[🏠 HOME](./README.md)
+[🏠 HOME](README.md)
 [🇫🇷 Version française](./pages/EACEI_FR.md)
 [🇮🇹 Versione Italiana](./pages/EACEI_IT.md)
 
