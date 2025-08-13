@@ -19,7 +19,7 @@
       <span class="tag">Python</span>
       <span class="tag">Pandas</span>
       <span class="tag">SQL</span>
-      <span class="tag">AWS</span>
+      <span class="tag">AWS S3/ECS</span>
       <span class="tag">Kafka</span>
       <span class="tag">Spark</span>
       <span class="tag">Airflow</span>
