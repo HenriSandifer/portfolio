@@ -20,7 +20,7 @@ Author: [henrisandifer](https://github.com/henrisandifer)
 - <span style="font-size: 20px;">**Daily predictions** using multiple machine learning models.</span>
 &nbsp;
 
-![Dashboard Screenshot](assets/prediction.JPG)
+![Dashboard Screenshot](../assets/prediction.JPG)
 
 - <span style="font-size: 20px;">**Historical archives** of both real consumption and model predictions.</span></br>
 &nbsp;
@@ -30,7 +30,7 @@ Author: [henrisandifer](https://github.com/henrisandifer)
 - <span style="font-size: 20px;">**Automated model evaluation and visualizations** accessible via a clean web interface.</span></br>
 &nbsp;
 
-![Dashboard Screenshot](assets/analytics.JPG)
+![Dashboard Screenshot](../assets/analytics.JPG)
 
 - A completely automated backend pipeline, deployed and managed in the cloud.
 
@@ -103,22 +103,22 @@ root/
 - <span style="font-size: 20px;">**"New Data Acquisition"** job architecture</span>
 &nbsp;
 
-![New Data Acquisition Diagram](assets/new_data_acquisition_job.png)
+![New Data Acquisition Diagram](../assets/new_data_acquisition_job.png)
 
 - <span style="font-size: 20px;">**"Prediction"** job architecture</span>
 &nbsp;
 
-![Prediction Job Diagram](assets/prediction_job.png)
+![Prediction Job Diagram](../assets/prediction_job.png)
 
 - <span style="font-size: 20px;">**"Evaluation"** job architecture</span>
 &nbsp;
 
-![Evaluation Job Diagram](assets/evaluation_job.png)
+![Evaluation Job Diagram](../assets/evaluation_job.png)
 
 - <span style="font-size: 20px;">**"Plotting"** job architecture</span>
 &nbsp;
 
-![Plotting Job Diagram](assets/plotting_job.png)
+![Plotting Job Diagram](../assets/plotting_job.png)
 
 
 ## 🧪 Model Design
