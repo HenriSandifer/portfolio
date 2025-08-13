@@ -6,7 +6,7 @@
 
 **End-to-end automated ML system for French regional electricity demand prediction**
 
-[!Dashboard Screenshot](../assets/evaluation.jpeg)
+![Dashboard Screenshot](../assets/evaluation.jpeg)
 
 # 🌐 View the **Live Application:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com)  
 
@@ -38,11 +38,17 @@ Electricity demand forecasting is critical for grid operators and energy provide
 
 ### Key Achievements
 - ✅ **Automated daily forecasts** for all French regions
+![Forecast](../assets/prediction.JPG)
+  
 - ✅ **Cloud-native architecture** with AWS services
 - ✅ **55 trained XGBoost models** with MLflow versioning
 - ✅ **Multi-layered evaluation** system with comprehensive metrics
+
+
 - ✅ **Interactive web application** for forecast visualization
+![Evaluation](../assets/evaluation.jpeg)
 - ✅ **Complete historical archive** of predictions and evaluations
+![Analytics](../assets/analytics.JPG)
 
 ---
 
@@ -50,25 +56,26 @@ Electricity demand forecasting is critical for grid operators and energy provide
 
 The system follows a **modular, cloud-native architecture** with four distinct services, each containerized and orchestrated automatically in AWS:
 
-```
-┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
-│   Data Sources          │    │   Data Lake (S3)        │    │  Compute (ECS)         │
-│                         │    │                         │    │                        │
-│ • ODRE API              │──▶│ Structured Storage      │──▶│ • Data Acquisition.    │
-│ • Open-Meteo API        │    │ /Predictions/           │    │ • Prediction           │
-│ • Real-time feeds       │    │ /REGION/YYYY-MM/        │    │ • Evaluation           │
-└─────────────────────┘    │ /YYYY-MM-DD/            │    │ • Plotting             │
-                               └─────────────────────┘    └─────────────────────┘
-                                      │                          │
-                                      ▼                          ▼
-┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
-│  Orchestration          │    │   ML Operations        │    │   Frontend              │
-│                         │    │                        │    │                         │
-│ AWS EventBridge         │    │ MLflow Tracking        │    │ Streamlit App           │
-│ (Scheduled Tasks).      │    │ Model Versioning       │    │ (Render.com)            │
-│                         │    │ Performance Metrics.   │    │                         │
-└─────────────────────┘    └─────────────────────┘    └─────────────────────┘
-```
+- <span style="font-size: 20px;">**"New Data Acquisition"** job architecture</span>
+&nbsp;
+
+![New Data Acquisition Diagram](../assets/new_data_acquisition_job.png)
+
+- <span style="font-size: 20px;">**"Prediction"** job architecture</span>
+&nbsp;
+
+![Prediction Job Diagram](../assets/prediction_job.png)
+
+- <span style="font-size: 20px;">**"Evaluation"** job architecture</span>
+&nbsp;
+
+![Evaluation Job Diagram](../assets/evaluation_job.png)
+
+- <span style="font-size: 20px;">**"Plotting"** job architecture</span>
+&nbsp;
+
+![Plotting Job Diagram](../assets/plotting_job.png)
+
 
 ### Core Design Principles
 - **Separation of Concerns**: Each service handles a distinct stage of the data lifecycle
@@ -202,7 +209,7 @@ The system implements comprehensive feature engineering to capture the complex p
 
 **Consumption History**
 - **Lag features** capturing recent consumption patterns
-- **Rolling averages** over multiple time windows (6h, 12h, 24h)
+- **Rolling averages** over multiple time windows (6h, 12h, 24h, etc.)
 
 ```python
 # Example feature engineering pipeline
@@ -273,20 +280,20 @@ The interactive Streamlit application provides comprehensive access to forecasts
 ### **Key Features**
 
 **Current Predictions Page**
-![Prediction Dashboard](assets/prediction.JPG)
+![Prediction Dashboard](../assets/prediction.JPG)
 - **Regional selection** with interactive dropdown
 - **Live D+1 forecasts** with confidence intervals
 - **Multi-model comparison** showing prediction evolution throughout the day
 - **Weather context** displaying temperature forecasts and historical patterns
 
 **Historical Evaluation Page**  
-![Evaluation Dashboard](assets/evaluation.JPG)
+![Evaluation Dashboard](../assets/evaluation.JPG)
 - **Performance metrics visualization** across all regions and time periods
 - **Model comparison** showing accuracy trends over time
 - **Error analysis** with detailed breakdowns by time of day and season
 
 **Analytics & Insights Page**
-![Analytics Dashboard](assets/analytics.JPG)
+![Analytics Dashboard](../assets/analytics.JPG)
 - **Cross-regional analysis** comparing consumption patterns
 - **Seasonal trend identification** with statistical significance testing
 - **Model performance benchmarking** across different conditions
