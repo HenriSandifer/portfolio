@@ -97,9 +97,9 @@ Full-stack, **end-to-end, automated system** for forecasting short-term electric
 *   **Key Practices:** **Automated data acquisition from external APIs**, **cloud data lake implementation (AWS S3)**, **efficient data processing and transformation** (including time-series resampling and incremental updates), **containerization with Docker**, and **automated orchestration via AWS services**. Full **MLOps workflow**, including feature engineering, model management with **MLflow**, and multi-layered automated prediction and evaluation.
 *   **Tech Stack:** **AWS (S3, ECS, EventBridge)**, **Docker**, **Python** (Pandas, Scikit-learn, XGBoost, Boto3, Plotly), **MLflow**, **Streamlit**, and **Render**.
 
-### 👉🌐 View the **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
+### 👉🌐 View the **Live Demo** : [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
 
-[📁 View Full Project Report](./pages/Predi_Elec.md)
+### 👉📖 View the full **Project Report** (+ video) : [Full Project Report](./pages/Predi_Elec.md)
 
 ---
 
@@ -114,7 +114,7 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 
 ### 👉🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
 
-[📁 View Full Project Report](./pages/EACEI.md)
+### 👉📖 View the full **project report** (+ video) : [Full Project Report](./pages/EACEI.md)
 
 ---
 
@@ -125,7 +125,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 *   **Key Practices:** The project amplifies **Big Data aspects** through volume/velocity simulation, partitioning, and streaming. It incorporates **robust data quality checks (Great Expectations)**, **enhanced error handling and monitoring**, **idempotency**, **schema evolution**, and a **simple query/serving layer** for end-to-end completeness. It also includes **CI/CD basics** and a **scalability demo** to showcase thoughtful engineering practices.
 *   **Tech Stack:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI**, and **GitHub Actions**.
 
-[📁 View Ongoing Project Documentation](./pages/project_3.md)
+### 👉📝 View the ongoing project documentation :[Ongoing Project Documentation](./pages/project_3.md)
 
 ---
 
