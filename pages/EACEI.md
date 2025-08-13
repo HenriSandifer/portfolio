@@ -6,7 +6,7 @@
 
 A robust, multi-stage ETL pipeline that transforms 164 heterogeneous raw data files from France's National Institute of Statistics (INSEE) into a clean, unified star-schema database, enabling comprehensive analysis of French industrial energy consumption patterns and costs from 2010-2023.
 
-![Dashboard Screenshot](../assets/EACEI.png)
+![Dashboard Screenshot](../assets/eacei.png)
 
 ## 👉🌐 View the Live Dashboard : [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
 
