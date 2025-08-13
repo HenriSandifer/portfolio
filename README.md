@@ -5,7 +5,8 @@
 ---
 
 ## 📺 Video presentation
-[![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)
+<!-- [![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)-->
+### ⌛ Coming soon
 
 ---
 
@@ -33,13 +34,14 @@
 
 ![Prediction screenshot](evaluation.jpeg)
 
-This project is a full-stack, **end-to-end, automated system** for forecasting short-term electricity consumption across all regions of France. It features a robust, scalable, and maintainable **cloud-native data pipeline** that handles the complete data lifecycle, from automated acquisition of real-time consumption and temperature data via APIs to cloud storage, model training, prediction, and evaluation. The system culminates in a **live Streamlit application** for interactive visualization of forecasts.
+Full-stack, **end-to-end, automated system** for forecasting short-term electricity consumption across all regions of France. Robust, scalable, and maintainable **cloud-native data pipeline** that handles the complete data lifecycle, from automated acquisition of real-time consumption and temperature data via APIs to cloud storage, model training, prediction, and evaluation. Culminates in a **live Streamlit application** for interactive visualization of forecasts.
 
-*   **Key Practices:** Emphasizing **automated data acquisition from external APIs**, **cloud data lake implementation (AWS S3)**, **efficient data processing and transformation** (including time-series resampling and incremental updates), **containerization with Docker**, and **automated orchestration via AWS services**. It also demonstrates a full **MLOps workflow**, including feature engineering, model management with **MLflow**, and multi-layered automated prediction and evaluation.
+*   **Key Practices:** **Automated data acquisition from external APIs**, **cloud data lake implementation (AWS S3)**, **efficient data processing and transformation** (including time-series resampling and incremental updates), **containerization with Docker**, and **automated orchestration via AWS services**. Full **MLOps workflow**, including feature engineering, model management with **MLflow**, and multi-layered automated prediction and evaluation.
 *   **Tech Stack:** **AWS (S3, ECS, EventBridge)**, **Docker**, **Python** (Pandas, Scikit-learn, XGBoost, Boto3, Plotly), **MLflow**, **Streamlit**, and **Render**.
 
-🌐 **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com)  
-[📁 View Full Project Documentation](./projects/electricity-forecasting/README.md)
+#### 🌐 View the **Live Demo:** [https://predi-elec.onrender.com](https://predi-elec.onrender.com) 
+
+[📁 View Full Project Report](project_1.md)
 
 ---
 
@@ -52,7 +54,9 @@ This project is a **robust, multi-stage ETL pipeline** designed to ingest, clean
 *   **Key Practices:** This project showcases **advanced data quality management** (handling varying file formats, standardizing diverse dimensions like business sectors, regions, and employee sizes, and addressing suppressed data), **data modeling with a star schema**, **modularity**, **configuration as code (JSON)**, and **robust error handling** throughout the ETL process.
 *   **Tech Stack:** **Python**, **Pandas**, **JSON**, CSV outputs, and **Microsoft Power BI**.
 
-[📁 View Full Project Documentation](./projects/eacei-etl/README.md)
+#### 🌐 View the **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20) 
+
+[📁 View Full Project Documentation](project_2.md)
 
 ---
 
@@ -63,7 +67,7 @@ This **ongoing project**, focused on **Big Data** concepts, simulates an end-to-
 *   **Key Practices:** The project amplifies **Big Data aspects** through volume/velocity simulation, partitioning, and streaming. It incorporates **robust data quality checks (Great Expectations)**, **enhanced error handling and monitoring**, **idempotency**, **schema evolution**, and a **simple query/serving layer** for end-to-end completeness. It also includes **CI/CD basics** and a **scalability demo** to showcase thoughtful engineering practices.
 *   **Tech Stack:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI**, and **GitHub Actions**.
 
-[📁 View Full Project Documentation](./projects/ecommerce-analytics/README.md)
+[📁 View Ongoing Project Documentation](project_3.md)
 
 ---
 
