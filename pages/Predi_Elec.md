@@ -1,4 +1,4 @@
-[🏠 HOME](./README.md)
+[🏠 HOME](README.md)
 [🇫🇷 Version française](./pages/Predi_Elec_FR.md)
 [🇮🇹 Versione Italiana](./pages/Predi_Elec_IT.md)
 
@@ -9,7 +9,7 @@
 
 Author: [henrisandifer](https://github.com/henrisandifer)
 
-App website : https://predi-elec.onrender.com/
+### 👉🌐 View the **Live Demo** : [Live Demo](https://predi-elec.onrender.com/)
 
 ---
 
