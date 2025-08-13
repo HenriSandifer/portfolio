@@ -1,4 +1,8 @@
-# E-commerce Real-Time Analytics Platform
+[🏠 HOME](./README.md)
+[🇫🇷 Version française](./pages/E_commerce_FR.md)
+[🇮🇹 Versione Italiana](./pages/E_commerce_IT.md)
+
+# 💻 E-commerce Real-Time Analytics Platform
 
 🚧 **Status: Ongoing Development**
 
@@ -224,18 +228,18 @@ For comprehensive setup instructions including cloud configuration, see [Setup G
 
 ## Optimization Strategies
 
-### Storage Optimization
+### Storage Optimization - objectives
 - **Parquet format** with Snappy compression reducing storage costs by ~75%
 - **Partitioning by date** enabling partition pruning for faster queries
 - **S3 lifecycle policies** automatically archiving old data to cheaper storage tiers
 
-### Compute Optimization
+### Compute Optimization - objectives
 - **Spark partitioning** strategy optimized for join operations
 - **Snowflake clustering keys** on frequently queried columns
 - **Micro-batch sizing** tuned for optimal latency vs. throughput balance
 - **Auto-scaling** virtual warehouses based on workload
 
-### Query Performance Results
+### Query Performance - Projected Results
 | Query Type | Before Optimization | After Optimization | Improvement |
 |------------|--------------------|--------------------|-------------|
 | Monthly Sales by Category | 28.3s | 4.2s | 85% faster |
@@ -261,7 +265,7 @@ For comprehensive setup instructions including cloud configuration, see [Setup G
 - **Pipeline failures**: Airflow task failure notifications
 - **Performance degradation**: Query time threshold alerts
 
-## Performance Results
+## Performance - Projected Results
 
 ### Current Metrics (as of latest run)
 - **Daily Event Volume**: ~75,000 events/day
@@ -271,20 +275,20 @@ For comprehensive setup instructions including cloud configuration, see [Setup G
 - **Storage Efficiency**: 78% compression ratio
 - **Monthly Operating Cost**: <$25 (AWS + Snowflake)
 
-### Scalability Demonstration
+### Scalability Demonstration - objectives
 - **Load tested** up to 500,000 events/day
 - **Linear scaling** observed with additional Spark executors
 - **Cost scales proportionally** with usage-based pricing
 
 ## Development Roadmap
 
-### Phase 0: Foundation ✅
-- [x] Docker environment setup
-- [x] Database initialization (PostgreSQL)
-- [x] Event data generator
-- [x] Basic Kafka producer setup
+### Phase 0: Foundation 🚧
+- [ ] Docker environment setup
+- [ ] Database initialization (PostgreSQL)
+- [ ] Event data generator
+- [ ] Basic Kafka producer setup
 
-### Phase 1: Core Batch Pipeline 🚧
+### Phase 1: Core Batch Pipeline
 - [ ] Airflow DAG implementation
 - [ ] Spark batch processing job
 - [ ] S3 data lake setup
