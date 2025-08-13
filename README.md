@@ -41,7 +41,7 @@
 
 </div>
 
-<style>
+  <style>
   .tags {
     margin-top: 8px;
   }
@@ -55,7 +55,7 @@
     border-radius: 12px;
     border: 1px solid #ccc;
   }
-</style>
+  </style>
 
 ---
 
