@@ -56,6 +56,7 @@
   border: 1px solid #ccc;
 }
 </style>
+<p></p>
 
 ---
 
@@ -63,7 +64,7 @@
 <!-- [![Video presentation](https://img.youtube.com/vi/AsAM7ZAL63o/0.jpg)](https://youtu.be/AsAM7ZAL63o?si=KiCLegoh95UAntpA)-->
 ### ⌛ Coming soon
 
-_Problem-solver with a knack for building, maintaining and optimizing data infrastructure._
+_Problem-solver and ex-microbiologist/agronomist with a knack for building, maintaining and optimizing data infrastructure._
 
 ---
 
