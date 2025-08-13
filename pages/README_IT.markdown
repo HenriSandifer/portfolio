@@ -113,7 +113,7 @@ Questo progetto consiste in una **pipeline ETL robusta e multi-stadio** progetta
 
 ### 👉🌐 Visualizza la **Dashboard Live**: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
 
-[📁 Visualizza il report completo del progetto](EACEI_IT.md)
+### 👉📖 Visualizza il **report completo** (+ video) : [Report completo](EACEI_IT.md)
 
 ---
 
@@ -125,7 +125,7 @@ Questo progetto **in corso**, incentrato sui concetti di **Big Data**, simula un
 
 * **Stack tecnologico:** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI** e **GitHub Actions**.
 
-[📁 Visualizza la documentazione del progetto in corso](E_commerce_IT.md)
+### 👉📝 Visualizza la documentazione in corso : [Documentazione in corso](E_commerce_IT.md)
 
 ---
 
