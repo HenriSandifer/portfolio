@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 200px; margin-right: 10px;">
+  <div style="flex: 1; min-width: 120px; margin-right: 10px;">
     <p>🌍 <strong>Spoken languages</strong> (fluent)</p>
     <div class="tags">
       <span class="tag">English</span>
@@ -13,7 +13,7 @@
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 200px; margin-right: 10px;">
+  <div style="flex: 1; min-width: 120px; margin-right: 10px;">
     <p>🧱 <strong>Tech stack</strong></p>
     <div class="tags">
       <span class="tag">Python</span>
@@ -29,7 +29,7 @@
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-width: 120px;">
     <p>🎯 <strong>Skills</strong></p>
     <div class="tags">
       <span class="tag">ETL</span>
