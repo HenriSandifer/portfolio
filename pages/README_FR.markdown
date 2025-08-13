@@ -87,7 +87,7 @@ _Problem-solver et ancien microbiologiste/agronome avec un talent pour la constr
 
 ### **🔮 1. Système de prévision de la consommation régionale d'électricité**
 
-![Prediction screenshot](./assets/evaluation.jpeg)
+![Prediction screenshot](../assets/evaluation.jpeg)
 
 Système complet, **de bout en bout et automatisé** pour la prévision à court terme de la consommation d'électricité dans toutes les régions de France. Pipeline de données **cloud-native** robuste, évolutif et maintenable qui gère le cycle de vie complet des données, de l'acquisition automatisée des données de consommation et de température en temps réel via des API au stockage dans le cloud, à la formation du modèle, à la prévision et à l'évaluation. Le projet aboutit à une **application Streamlit en direct** pour la visualisation interactive des prévisions.
 
@@ -97,13 +97,13 @@ Système complet, **de bout en bout et automatisé** pour la prévision à court
 
 ### 👉🌐 Voir la **Démo en direct** : [https://predi-elec.onrender.com](https://predi-elec.onrender.com)
 
-[📁 Voir le rapport de projet complet](./pages/project_1.md)
+[📁 Voir le rapport de projet complet](Predi_Elec_FR.md)
 
 ---
 
 ### **📊 2. Pipeline ETL & Analyse de la consommation d'énergie industrielle française (EACEI)**
 
-![Dashboard screenshot](./assets/eacei.png)
+![Dashboard screenshot](../assets/eacei.png)
 
 Ce projet est une **pipeline ETL robuste à plusieurs étapes** conçue pour ingérer, nettoyer et structurer **164 fichiers de données brutes très hétérogènes** (XLS, XLSX) sur la consommation d'énergie industrielle française de 2010 à 2023. L'objectif principal était de transformer cet ensemble de données complexes en une **base de données en schéma en étoile** propre, unifiée et prête pour l'analyse, qui a ensuite servi de base à un **tableau de bord Power BI interactif** pour analyser les tendances énergétiques.
 
@@ -113,7 +113,7 @@ Ce projet est une **pipeline ETL robuste à plusieurs étapes** conçue pour ing
 
 ### 👉🌐 Voir le **Tableau de bord en direct** : [Tableau de bord Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
 
-[📁 Voir le rapport de projet complet](./pages/project_2.md)
+[📁 Voir le rapport de projet complet](EACEI_FR.md)
 
 ---
 
@@ -125,7 +125,7 @@ Ce projet **en cours**, axé sur les concepts du **Big Data**, simule une platef
 
 * **Stack technique :** **Kafka**, **Spark**, **Airflow**, **Snowflake**, **PostgreSQL**, **DBT**, **Great Expectations**, **S3**, **Docker**, **FastAPI** et **GitHub Actions**.
 
-[📁 Voir la documentation du projet en cours](./pages/project_3.md)
+[📁 Voir la documentation du projet en cours](E_commerce_FR.md)
 
 ---
 
