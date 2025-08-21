@@ -1,10 +1,11 @@
 <meta charset="UTF-8">
 title: Henri Sandifer
 description: >
-  <p><strong>Data Engineer</strong> 
+  <p><strong>Data Engineer</strong></p>
+bio:
   email : henri@henrisandifer.com
   github : github.com/henrisandifer
-  linkedin : linkedin.com/in/henrisandifer </p>
+  linkedin : linkedin.com/in/henrisandifer
   
 logo: ./assets/132948433.jpeg
 theme: jekyll-theme-minimal
