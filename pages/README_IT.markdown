@@ -18,10 +18,6 @@
       <span class="tag">Pandas</span>
       <span class="tag">SQL</span>
       <span class="tag">AWS S3/ECS</span>
-      <span class="tag">Kafka</span>
-      <span class="tag">Spark</span>
-      <span class="tag">Airflow</span>
-      <span class="tag">Snowflake</span>
       <span class="tag">Power BI</span>
       <span class="tag">Streamlit</span>
     </div>
