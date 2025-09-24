@@ -73,16 +73,16 @@ _Problem-solver and ex-microbiologist/agronomist with a knack for building, main
 ## 🎓 Education
 
 *   **RNCP 6, Concepteur Développeur d'Applications**
-*Bootcamp : Data Scientist (DATAROCKSTARS) - 09/2025* 
+  *Bootcamp : Data Scientist (DATAROCKSTARS) - 09/2025* 
 
 *   **M.S., Sustainable Agriculture**  
-*Università degli Studi di Padova, Italy - 2022*
+  *Università degli Studi di Padova, Italy - 2022*
 
 *   **B.A., Biology**  
-*Carleton College, USA - 2015*
+  *Carleton College, USA - 2015*
 
 *   **French Baccalaureate - Economics and Sociology (International Option)**  
-*EABJM, Paris - 2011*
+  *EABJM, Paris - 2011*
 
 ---
 <p></p>
