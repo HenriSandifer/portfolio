@@ -66,7 +66,6 @@ _Problem-solver et ancien microbiologiste/agronome avec un talent pour la constr
 
 * **RNCP 6, Concepteur Développeur d'Applications**  
   *Bootcamp : Data Scientist (DATAROCKSTARS) - 09/2025*
-  *Bootcamp intensif de 400 heures en Data Science*
 
 * **M.S., Agriculture Durable**  
   *Università degli Studi di Padova, Italie - 2022*
