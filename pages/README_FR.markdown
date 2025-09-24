@@ -15,8 +15,8 @@
     <p>🧱 <strong>Stack technique</strong></p>
     <div class="tags">
       <span class="tag">Python</span>
-      <span class="tag">Pandas</span>
       <span class="tag">SQL</span>
+      <span class="tag">Bash</span>
       <span class="tag">AWS S3/ECS</span>
       <span class="tag">Power BI</span>
       <span class="tag">Streamlit</span>
@@ -25,10 +25,11 @@
   <div style="flex: 1; min-width: 120px;">
     <p>🎯 <strong>Compétences</strong></p>
     <div class="tags">
-      <span class="tag">ETL</span>
+      <span class="tag">ETL/ELT</span>
       <span class="tag">Modélisation des données</span>
       <span class="tag">Qualité des données</span>
-      <span class="tag">Enregistrement des erreurs</span>
+      <span class="tag">Enregistrement des erreurs & Monitoring</span>
+      <span class="tag">Test unitaires et d'integration</span>
     </div>
   </div>
 </div>
