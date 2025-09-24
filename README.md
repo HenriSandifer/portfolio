@@ -17,8 +17,9 @@
     <p>🧱 <strong>Tech stack</strong></p>
     <div class="tags">
       <span class="tag">Python</span>
-      <span class="tag">Pandas</span>
+      <span class="tag">Python</span>
       <span class="tag">SQL</span>
+      <span class="tag">Bash</span>
       <span class="tag">AWS S3/ECS</span>
       <span class="tag">Power BI</span>
       <span class="tag">Streamlit</span>
@@ -28,10 +29,11 @@
   <div style="flex: 1; min-width: 120px;">
     <p>🎯 <strong>Skills</strong></p>
     <div class="tags">
-      <span class="tag">ETL</span>
+      <span class="tag">ETL/ELT</span>
       <span class="tag">Data modelling</span>
       <span class="tag">Data quality</span>
-      <span class="tag">Error logging</span>
+      <span class="tag">Error logging & Monitoring</span>
+      <span class="tag">Unit/Integration Testing</span>
     </div>
   </div>
 
