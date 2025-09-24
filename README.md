@@ -17,7 +17,6 @@
     <p>🧱 <strong>Tech stack</strong></p>
     <div class="tags">
       <span class="tag">Python</span>
-      <span class="tag">Python</span>
       <span class="tag">SQL</span>
       <span class="tag">Bash</span>
       <span class="tag">AWS S3/ECS</span>
@@ -75,7 +74,6 @@ _Problem-solver and ex-microbiologist/agronomist with a knack for building, main
 
 *   **RNCP 6, Concepteur Développeur d'Applications**
 *Bootcamp : Data Scientist (DATAROCKSTARS) - 09/2025* 
-*400-hour intensive Data Science bootcamp*
 
 *   **M.S., Sustainable Agriculture**  
 *Università degli Studi di Padova, Italy - 2022*
