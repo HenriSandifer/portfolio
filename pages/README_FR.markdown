@@ -65,8 +65,7 @@ _Problem-solver et ancien microbiologiste/agronome avec un talent pour la constr
 ## 🎓 Formation
 
 * **RNCP 6, Concepteur Développeur d'Applications**  
-  *Bootcamp : Data Scientist (DATAROCKSTARS)*  
-  *Certification attendue le 09/2025*  
+  *Bootcamp : Data Scientist (DATAROCKSTARS) - 09/2025*
   *Bootcamp intensif de 400 heures en Data Science*
 
 * **M.S., Agriculture Durable**  
