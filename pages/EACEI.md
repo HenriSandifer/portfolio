@@ -25,7 +25,7 @@ A robust, multi-stage ETL pipeline that transforms 168 heterogeneous raw data fi
 ## Project Overview
 
 ### Challenge
-Transform 164 highly heterogeneous raw data files (XLS, XLSX) from the EACEI (Annual Survey of Energy Consumption in Industry) spanning 13 years (2010-2023) into a unified, analysis-ready database. Each file contained inconsistent formatting, varying schemas, metadata artifacts, and evolving business classifications.
+Transform 168 highly heterogeneous raw data files (XLS, XLSX) from the EACEI (Annual Survey of Energy Consumption in Industry) spanning 13 years (2010-2023) into a unified, analysis-ready database. Each file contained inconsistent formatting, varying schemas, metadata artifacts, and evolving business classifications.
 
 ### Solution
 A systematic, four-stage ETL pipeline that:
