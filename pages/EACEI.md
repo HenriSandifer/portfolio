@@ -160,7 +160,7 @@ def clean_reg_row_content(cell_content):
 ## Data Model
 
 ### Final Database Schema
-![Star Schema](../assets/power_bi_architecture.png)
+![Star Schema](../assets/power_bi_data_structure.JPG)
 
 ### Key Metrics Available
 - **Energy Consumption**: All energy types in standardized kTEP units
