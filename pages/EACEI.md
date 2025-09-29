@@ -60,7 +60,7 @@ Enables comprehensive analysis of French industrial energy consumption trends, s
 
 ## Technical Architecture
 
-![Project Architecture](../assets/.png)
+![Project Architecture](../assets/Architecture.png)
 
 ```
 Configuration : JSON mapping for standardization rules
