@@ -4,7 +4,7 @@
 
 # 🏭 French Industrial Energy Consumption (EACEI) ETL Pipeline & Analysis
 
-A robust, multi-stage ETL pipeline that transforms 164 heterogeneous raw data files from France's National Institute of Statistics (INSEE) into a clean, unified star-schema database, enabling comprehensive analysis of French industrial energy consumption patterns and costs from 2010-2023.
+A robust, multi-stage ETL pipeline that transforms 168 heterogeneous raw data files from France's National Institute of Statistics (INSEE) into a clean, unified star-schema database, enabling comprehensive analysis of French industrial energy consumption patterns and costs from 2010-2023.
 
 ![Dashboard Screenshot](../assets/eacei.png)
 
@@ -60,26 +60,12 @@ Enables comprehensive analysis of French industrial energy consumption trends, s
 
 ## Technical Architecture
 
-```
-┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
-│   Raw Data Layer    │    │   Processing Layer   │    │   Output Layer      │
-│                     │    │                     │    │                     │
-│ • 164 INSEE Files   │───▶│ Step 1: Initial     │───▶│ Star Schema DB      │
-│ • XLS/XLSX Formats  │    │         Cleaning    │    │ • 5 Dimension Tables│
-│ • 2010-2023 Data    │    │                     │    │ • 3 Fact Tables     │
-│ • Heterogeneous     │    │ Step 2: Dimension   │    │                     │
-│   Schemas           │    │         Standard.   │    │ Power BI Dashboard  │
-│                     │    │                     │    │ • Sector Analysis   │
-└─────────────────────┘    │ Step 3: Aggregation │    │ • Regional Analysis │
-                           │         & Conform.  │    │ • Size Analysis     │
-                           │                     │    │                     │
-                           │ Step 4: Database    │    └─────────────────────┘
-                           │         Creation    │
-                           │                     │
-                           └─────────────────────┘
+![Project Architecture](../assets/.png)
 
-Configuration Layer: JSON mapping files for standardization rules
-Logging Layer: Comprehensive audit trail and data quality tracking
+```
+Configuration : JSON mapping for standardization rules
+Logging : Comprehensive audit trail and data quality tracking
+
 ```
 
 ## ETL Pipeline Details
