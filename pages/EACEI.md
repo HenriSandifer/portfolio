@@ -62,11 +62,8 @@ Enables comprehensive analysis of French industrial energy consumption trends, s
 
 ![Project Architecture](../assets/Architecture.png)
 
-```
 Configuration : JSON mapping for standardization rules
-Logging : Comprehensive audit trail and data quality tracking
-
-```
+Logging : Comprehensive audit trail and data aggregation tracking (eg. merging of silenced values with existing values during indicator column aggregation)
 
 ## ETL Pipeline Details
 
@@ -79,9 +76,9 @@ Logging : Comprehensive audit trail and data quality tracking
 - **File validation**: Ensuring each row represents a valid record
 - **Traceability**: Preserved original filenames with cleaned versions
 
-**Output**: 164 cleaned files in dedicated `step_1/` directory
+**Output**: 168 cleaned files in dedicated `step_1/` directory
 
-### Step 2: Dimension Standardization - Core Transformation Logic
+### Step 2: Category Standardization - Core Transformation Logic
 **Objective**: Create consistency across critical business dimensions
 
 **Challenge**: File formats and headers changed significantly pre/post-2020
@@ -117,7 +114,7 @@ def clean_reg_row_content(cell_content):
     return standardize_region(cell_content, region_mapping)
 ```
 
-### Step 3: Aggregation & Conformance - Final Transformation
+### Step 3: Indicator standardization - Aggregation & Conformance 
 **Objective**: Unify data metrics across four main table types (T1, T2, T3, T4)
 
 **Key Operations**:
@@ -136,13 +133,21 @@ def clean_reg_row_content(cell_content):
 
 **Dimension Tables Created**:
 - `dim_naf`: Business sector dimension with official codes and labels
+
+![dim_naf](../assets/naf_dim.JPG)
+
 - `dim_reg`: Geographical regions with current administrative structure  
 - `dim_teff`: Employee size categories with standardized brackets
 - `dim_year`: Simple temporal dimension (2010-2023)
 - `dim_ind`: Comprehensive metadata for all collected metrics
 
+![dim_ind](../assets/ind_dim.JPG)
+
 **Fact Tables Created**:
 - `faits_naf`: Energy consumption/cost facts by business sector
+
+![naf_facts](../assets/naf_facts.JPG)
+
 - `faits_reg`: Energy consumption/cost facts by region
 - `faits_teff`: Energy consumption/cost facts by establishment size
 
@@ -155,53 +160,7 @@ def clean_reg_row_content(cell_content):
 ## Data Model
 
 ### Final Database Schema
-```
-                    ┌─────────────┐
-                    │   dim_year  │
-                    │   year_id   │
-                    │   year      │
-                    └─────────────┘
-                           │
-                           │
-    ┌─────────────┐       │       ┌─────────────┐
-    │   dim_naf   │       │       │   dim_reg   │
-    │   naf_id    │       │       │   reg_id    │
-    │   naf_code  │       │       │   reg_code  │
-    │   naf_label │       │       │   reg_name  │
-    └─────────────┘       │       └─────────────┘
-           │               │               │
-           │               │               │
-           └───────────────┼───────────────┘
-                           │
-                   ┌───────▼───────┐
-                   │  FACT TABLES  │
-                   │               │
-                   │  faits_naf    │
-                   │  faits_reg    │
-                   │  faits_teff   │
-                   │               │
-                   │  Foreign Keys:│
-                   │  • naf_id     │
-                   │  • reg_id     │
-                   │  • year_id    │
-                   │  • ind_id     │
-                   │  • teff_id    │
-                   │               │
-                   │  Measures:    │
-                   │  • value      │
-                   └───────┬───────┘
-                           │
-                           │
-            ┌─────────────┐│┌─────────────┐
-            │  dim_teff   ││ │dim_indicator│
-            │  teff_id    ││ │   ind_id    │
-            │  teff_code  ││ │   ind_code  │
-            │  teff_label ││ │   ind_label │
-            └─────────────┘│ │   ind_unit  │
-                           │ └─────────────┘
-                           │
-                           │
-```
+![Star Schema](../assets/power_bi_architecture.png)
 
 ### Key Metrics Available
 - **Energy Consumption**: All energy types in standardized kTEP units
@@ -319,7 +278,7 @@ RETURN DIVIDE(CurrentYear - PreviousYear, PreviousYear, 0)
 ## Results & Impact
 
 ### **Data Processing Achievements**
-- ✅ **164/164 files** successfully processed (100% success rate)
+- ✅ **168/168 files** successfully processed (100% success rate)
 - ✅ **Zero data loss** during transformation process
 - ✅ **Complete dimensional consistency** across 13-year timeline
 - ✅ **50,000+ unified records** ready for analysis
