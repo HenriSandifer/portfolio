@@ -6,5 +6,13 @@ description: >
     <a href="https://github.com/henrisandifer">GitHub</a> |
     <a href="https://linkedin.com/in/henrisandifer">LinkedIn</a>
   </p>
+  <p>
+  <a href="./assets/cv_sandifer_henri.pdf" download>
+    <button style="padding: 8px 16px; border-radius: 8px; background-color: #007acc; color: white; border: none; cursor: pointer;">
+      📄 Download CV (PDF)
+    </button>
+  </a>
+  </p>
+
 logo: ./assets/132948433.jpeg
 theme: jekyll-theme-minimal
