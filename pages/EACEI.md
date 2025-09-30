@@ -62,8 +62,8 @@ Enables comprehensive analysis of French industrial energy consumption trends, s
 
 ![Project Architecture](../assets/Architecture.png)
 
-Configuration : JSON mapping for standardization rules
-Logging : Comprehensive audit trail and data aggregation tracking (eg. merging of silenced values with existing values during indicator column aggregation)
+- Configuration : JSON mapping for standardization rules
+- Logging : Comprehensive audit trail and data aggregation tracking (eg. merging of silenced values with existing values during indicator column aggregation)
 
 ## ETL Pipeline Details
 
@@ -451,5 +451,5 @@ less logs/error_details.log
 ## Contact & Support
 
 **Author**: Henri Sandifer  
-**Email**: henrisandifer@gmail.com  
+**Email**: henri@henrisandifer.com  
 **LinkedIn**: [Henri Sandifer](https://linkedin.com/in/henrisand
