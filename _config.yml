@@ -7,9 +7,16 @@ description: >
     <a href="https://linkedin.com/in/henrisandifer">LinkedIn</a>
   </p>
   <p>
-  <a href="./assets/cv_sandifer_henri.pdf" download>
+  <a href="./assets/cv_sandifer_henri_fr.pdf" download>
     <button style="padding: 8px 16px; border-radius: 8px; background-color: #007acc; color: white; border: none; cursor: pointer;">
-      📄 Download CV (PDF)
+      📄🇫🇷 Télécharger CV (FR, PDF)
+    </button>
+  </a>
+  </p>
+  <p>
+  <a href="./assets/cv_sandifer_henri_en.pdf" download>
+    <button style="padding: 8px 16px; border-radius: 8px; background-color: #007acc; color: white; border: none; cursor: pointer;">
+      📄🇬🇧 Download CV (EN, PDF)
     </button>
   </a>
   </p>
