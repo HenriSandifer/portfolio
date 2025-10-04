@@ -9,14 +9,14 @@ description: >
   <p>
   <a href="./assets/cv_sandifer_henri_fr.pdf" download>
     <button style="padding: 8px 16px; border-radius: 8px; background-color: #007acc; color: white; border: none; cursor: pointer;">
-      📄🇫🇷 Télécharger CV (FR, PDF)
+      📄🇫🇷 Télécharger CV (PDF)
     </button>
   </a>
   </p>
   <p>
   <a href="./assets/cv_sandifer_henri_en.pdf" download>
     <button style="padding: 8px 16px; border-radius: 8px; background-color: #007acc; color: white; border: none; cursor: pointer;">
-      📄🇬🇧 Download CV (EN, PDF)
+      📄🇬🇧 Download CV (PDF)
     </button>
   </a>
   </p>
